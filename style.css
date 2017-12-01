@@ -17,11 +17,7 @@ img {
 }
 
 p {
-  margin-bottom: 0px;
-}
-
-.pictureOfAuthor {
-  float: right;
+  margin-bottom: 0;
 }
 
 /* Rectangle Styles on the left side of the Page*/
@@ -44,38 +40,31 @@ p {
   background-color:  #7d97ad;
 }
 
-.colorCode {
+.color-code {
   padding-top: 50px;
   margin-bottom: 2%;
   text-align: center;
 }
 
 /* Footer Styles */
-.footer {
-  display: inline-block;
-  width: 100%;
-  margin-bottom: 2%;
-  float: right;
-}
-
-.footerHeading {
+.footer-heading {
   color: #7d97ad;
   margin-top: 1.5%;
   margin-bottom: 0%;
-  float: right;
+  float: left;
 }
 
-.featuredWork {
+.featured-work {
   width: 200px;
   float: left;
   margin-top: 1%;
   margin-left: 4%;
   margin-right: 4%;
   text-align: center;
-  word-wrap:break-word;
-  color: #000000;
+  word-wrap: break-word;
+  color: #000;
 }
 
-.featuredWorkLink{
+.featured-work-link{
   font-size: 10px;
 }
